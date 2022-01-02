@@ -1,0 +1,181 @@
+# minimal mistakes Jekyll reference
+# https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_config.yml
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "aqua"
+
+title: "minisumo.net"
+subtitle: "Il sito ufficiale delle gare di robotica in Italia"
+name: &name "Il sito ufficiale delle gare di robotica in Italia"
+description: &description "minisumo.net , Il sito ufficiale delle gare di robotica in Italia"
+url: https://nanosaur.ai
+repository: "minisumo-net/minisumo-net.github.io"
+teaser: /assets/images/intro.jpg
+
+search: true
+search_full_content: true
+
+github: [metadata]
+
+twitter:
+  username: &twitter "raffaello86"
+
+social:
+  links: # An array of links to social media profiles
+    - "https://twitter.com/raffaello86"
+    - "https://instagram.com/robo.panther"
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-243544-1"
+    anonymize_ip: false # default
+  #google-tag:
+  #  tracking_id: "GTM-WCM4XGH"
+
+author:
+  name        : "Raffaello Bonghi"
+  bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
+  avatar      : "https://rbonghi.github.io/assets/images/raffaello.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rnext.it"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/raffaello86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/rbonghi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/RaffaelloBonghi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/robo.panther"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/raffaello86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/rbonghi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/RaffaelloBonghi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/robo.panther"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
+    - label: "Terms"
+      icon: "fas fa-fw fa-link"
+      url: "/terms"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - vendor
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  tutorial:
+    output: true
+    permalink: /:collection/:path/
+  robot:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: true
+      related: true
+      show_date: true
+  # _tutorial
+  - scope:
+      path: ""
+      type: tutorial
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      sidebar:
+        nav: "tutorial"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+after_footer_scripts :
+  - /assets/js/cookie-consent.js
+  - /assets/js/copyCode.js
