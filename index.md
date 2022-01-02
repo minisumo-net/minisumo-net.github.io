@@ -11,19 +11,19 @@ header:
 intro: 
   - excerpt: 'Test'
 feature_row:
-  - image_path: /assets/images/nanosaur_og.jpg
-    alt: "About nanosaur"
+  - image_path: /assets/images/minisumo-competition.jpg
+    alt: "minisumo robot"
     title: "Cosa sono"
-    excerpt: "nanosaur is an 🇮🇹 italian open-source project, made around NVIDIA Jetson and designed with an active community behind."
+    excerpt: "La categoria minisumo"
     url: "/about"
     btn_label: "leggi di pi"
     btn_class: "btn--primary"
   - image_path: /assets/images/nanosaur_build.jpg
-    alt: "quick-start"
-    title: ":wrench: Make"
-    excerpt: "If you read this message, you want build or setup your nanosaur. There is only a button to press and follow the guide!"
-    url: "/quick-start/"
-    btn_label: "🚧 Let's go!"
+    alt: "Regolamento"
+    title: "Regolamento"
+    excerpt: "Il regolamento!"
+    url: "/rules/"
+    btn_label: "Leggi il regolamento"
     btn_class: "btn--warning"
   - image_path: /assets/images/nanosaur_follower.jpg
     alt: "tutorials"

@@ -1,6 +1,6 @@
 ---
-title: "I minisumo"
-excerpt: "La categoria minisumo"
+title: "minisumo.net"
+excerpt: "minisumo.net"
 permalink: /about/
 classes: wide
 header:

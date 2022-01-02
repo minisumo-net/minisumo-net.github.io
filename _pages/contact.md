@@ -1,7 +1,7 @@
 ---
-title: "I minisumo"
-excerpt: "La categoria minisumo"
-permalink: /about/
+title: "minisumo.net"
+excerpt: "minisumo.net"
+permalink: /contact/
 classes: wide
 header:
   overlay_color: "#000"

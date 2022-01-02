@@ -1,5 +1,7 @@
 main:
   - title: "Cosa sono"
     url: /about/
+  - title: "Regolamento"
+    url: /rules/
   - title: "📰 Posts"
     url: /posts/
