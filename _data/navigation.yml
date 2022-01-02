@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Regolamento"
     url: /rules/
+  - title: "Tutorials"
+    url: /tutorial/
   - title: "📰 Posts"
     url: /posts/

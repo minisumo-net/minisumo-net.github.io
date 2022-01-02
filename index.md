@@ -16,19 +16,19 @@ feature_row:
     title: "Cosa sono"
     excerpt: "La categoria minisumo"
     url: "/about"
-    btn_label: "leggi di pi"
+    btn_label: "leggi di più"
     btn_class: "btn--primary"
-  - image_path: /assets/images/nanosaur_build.jpg
+  - image_path: /assets/images/regolamento/posizioni.jpg
     alt: "Regolamento"
     title: "Regolamento"
     excerpt: "Il regolamento!"
     url: "/rules/"
     btn_label: "Leggi il regolamento"
     btn_class: "btn--warning"
-  - image_path: /assets/images/nanosaur_follower.jpg
+  - image_path: /assets/images/tutorial.jpg
     alt: "tutorials"
-    title: ":school_satchel: Play"
-    excerpt: "Learn Robotics with nanosaur, deepdive on ROS2 AI and other. Follow tutorials and courses to start in this world."
+    title: ":school_satchel: Tutorials"
+    excerpt: "Guide sui minisumo e non solo!"
     url: "/tutorial/"
     btn_label: "💯 Tutorials"
     btn_class: "btn--success"
