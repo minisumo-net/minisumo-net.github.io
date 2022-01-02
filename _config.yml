@@ -3,14 +3,16 @@
 
 remote_theme: mmistakes/minimal-mistakes
 
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "contrast"
 
+locale: "it-IT"
 title: "minisumo.net"
 subtitle: "Il sito ufficiale delle gare di robotica in Italia"
 name: &name "Il sito ufficiale delle gare di robotica in Italia"
 description: &description "minisumo.net , Il sito ufficiale delle gare di robotica in Italia"
 url: https://nanosaur.ai
 repository: "minisumo-net/minisumo-net.github.io"
+logo: "/assets/images/minisumo-net-logo.png"
 teaser: /assets/images/intro.jpg
 
 search: true
@@ -178,4 +180,3 @@ tag_archive:
 
 after_footer_scripts :
   - /assets/js/cookie-consent.js
-  - /assets/js/copyCode.js

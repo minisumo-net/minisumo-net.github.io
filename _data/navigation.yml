@@ -1,0 +1,5 @@
+main:
+  - title: "Cosa sono"
+    url: /about/
+  - title: "📰 Posts"
+    url: /posts/
