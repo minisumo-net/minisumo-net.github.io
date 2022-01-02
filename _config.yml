@@ -10,7 +10,7 @@ title: "minisumo.net"
 subtitle: "Il sito ufficiale delle gare di robotica in Italia"
 name: &name "Il sito ufficiale delle gare di robotica in Italia"
 description: &description "minisumo.net , Il sito ufficiale delle gare di robotica in Italia"
-url: https://nanosaur.ai
+url: https://minisumo-net.github.io
 repository: "minisumo-net/minisumo-net.github.io"
 logo: "/assets/images/minisumo-net-logo.jpg"
 teaser: /assets/images/intro.jpg
