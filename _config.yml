@@ -112,9 +112,6 @@ collections:
   tutorial:
     output: true
     permalink: /:collection/:path/
-  robot:
-    output: true
-    permalink: /:collection/:path/
 
 defaults:
   # _posts
