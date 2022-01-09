@@ -3,7 +3,7 @@
 Raffaello Bonghi:
   name        : "Raffaello Bonghi"
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
-  avatar      : "/assets/images/team/bonghi/raffaello.jpg"
+  avatar      : "https://rnext.it/assets/images/raffaello.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -19,4 +19,4 @@ Raffaello Bonghi:
       url: "https://github.com/rbonghi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/raffaello86"
+      url: "https://instagram.com/robot.panther"
