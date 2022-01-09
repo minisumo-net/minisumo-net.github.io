@@ -1,7 +1,12 @@
 ---
 title: "L’elettronica con un PIC 16F84A"
 excerpt: "L’elettronica con un PIC 16F84A per un robot da minisumo"
-permalink: /tutorial/elettronica-beam
+permalink: /tutorial/elettronica-16F84A
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/tutorial/16F84A/robot.jpg
+  teaser: /assets/images/tutorial/16F84A/robot.jpg
 author: "Raffaello Bonghi"
 classes: wide
 sensori:

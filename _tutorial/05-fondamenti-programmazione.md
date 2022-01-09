@@ -2,6 +2,11 @@
 title: "Fondamenti di programmazione"
 excerpt: "Fondamenti di programmazione"
 permalink: /tutorial/fondamenti-programmazione
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/tutorial/programmazione/MPLAB.gif
+  teaser: /assets/images/tutorial/programmazione/MPLAB.gif
 author: "Raffaello Bonghi"
 classes: wide
 ---

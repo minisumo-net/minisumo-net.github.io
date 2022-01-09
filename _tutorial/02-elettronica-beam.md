@@ -2,6 +2,11 @@
 title: "Elettronica BEAM"
 excerpt: "Elettronica BEAM per un robot da minisumo"
 permalink: /tutorial/elettronica-beam
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/tutorial/beam/finito.jpg
+  teaser: /assets/images/tutorial/beam/finito.jpg
 author: "Raffaello Bonghi"
 classes: wide
 sensori:

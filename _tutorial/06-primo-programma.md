@@ -4,6 +4,11 @@ excerpt: "Il primo programma per un robot da minisumo"
 permalink: /tutorial/primo-programma
 author: "Raffaello Bonghi"
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/tutorial/programmazione/MPLAB.gif
+  teaser: /assets/images/tutorial/programmazione/MPLAB.gif
 ---
 
 Il primo programma ci permetterà di gestire i 2 LED presenti nel robot attraverso il pulsante.

@@ -3,6 +3,11 @@ title: "Partiamo dal telaio"
 excerpt: "Partiamo dal telaio per costruire un robot da minisumo"
 permalink: /tutorial/partiamo-dal-telaio
 author: "Raffaello Bonghi"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/tutorial/telaio/telaioComp.jpg
+  teaser: /assets/images/tutorial/telaio/telaioComp.jpg
 toc: true
 toc_label: "Tavola dei contenuti"
 toc_sticky: true

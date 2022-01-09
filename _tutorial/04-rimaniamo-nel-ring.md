@@ -2,6 +2,11 @@
 title: "Rimaniamo nel Ring"
 excerpt: "Rimaniamo nel Ring per un robot da minisumo"
 permalink: /tutorial/rimaniamo-nel-ring
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/tutorial/rimaniamo-nel-ring/riflessione.jpg
+  teaser: /assets/images/tutorial/rimaniamo-nel-ring/riflessione.jpg
 author: "Antonio Rutigliano"
 classes: wide
 circuito-stampato-uno:
