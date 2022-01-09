@@ -125,7 +125,7 @@ Le connessioni presenti in questo connettore sono costituite, partendo dall’al
 * VDD
 * CLOCK
 * DATA
-é VPP
+* VPP
 
 # Il montaggio della scheda
 
