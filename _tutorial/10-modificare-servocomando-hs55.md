@@ -7,8 +7,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/tutorial/modifica-servo/Sviti.jpg
-  teaser: /assets/images/tutorial/modifica-servo/Sviti.jpg
+  overlay_image: /assets/images/tutorial/servocomandoHS55/Foto01.jpg
+  teaser: /assets/images/tutorial/servocomandoHS55/Foto01.jpg
 ingranaggio:
   - image_path: /assets/images/tutorial/servocomandoHS55/Foto04.jpg
   - image_path: /assets/images/tutorial/servocomandoHS55/Foto05.jpg
