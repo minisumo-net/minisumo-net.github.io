@@ -9,8 +9,8 @@ toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/tutorial/floppy-disk/How-To_Floppy_Disk1.jpg
-  teaser: /assets/images/tutorial/floppy-disk/How-To_Floppy_Disk1.jpg
+  overlay_image: /assets/images/tutorial/effetto-super-car/Scheda1.jpeg
+  teaser: /assets/images/tutorial/effetto-super-car/Scheda1.jpeg
 ---
 
 Quante volte ci è capito di vedere il nostro case “depresso”. In questa guida vedremo come inserire nel frontale del nostro Computer un semplice gioco di luci regolato da un 555.

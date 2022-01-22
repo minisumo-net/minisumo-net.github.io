@@ -9,9 +9,9 @@ header:
   overlay_image: /assets/images/posts/rds-x01/robot.jpg
   teaser: /assets/images/posts/rds-x01/robot.jpg
 categories:
-  - Programming
+  - Recensioni
 tags:
-  - GBASIC
+  - RDS-X01
 ruote:
   - image_path: /assets/images/posts/rds-x01/rdp8071.jpg
   - image_path: /assets/images/posts/rds-x01/rdp806.jpg
