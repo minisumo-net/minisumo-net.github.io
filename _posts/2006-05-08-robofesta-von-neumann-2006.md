@@ -1,5 +1,6 @@
 ---
 title: "3° robofesta al Von Neumann"
+author: "Raffaello Bonghi"
 classes: wide
 header:
   overlay_color: "#000"
