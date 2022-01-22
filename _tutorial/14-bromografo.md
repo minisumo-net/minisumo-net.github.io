@@ -38,6 +38,29 @@ listelli:
   - image_path: /assets/images/tutorial/bromografo/Foto028.jpg
   - image_path: /assets/images/tutorial/bromografo/Foto029.jpg
   - image_path: /assets/images/tutorial/bromografo/Foto030.jpg
+insieme:
+  - image_path: /assets/images/tutorial/bromografo/Foto032.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto033.jpg
+reattori:
+  - image_path: /assets/images/tutorial/bromografo/Foto034.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto035.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto036.jpg
+cavi:
+  - image_path: /assets/images/tutorial/bromografo/Foto039.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto040.jpg
+interruttori:
+  - image_path: /assets/images/tutorial/bromografo/Foto041.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto042.jpg
+cablaggi2:
+  - image_path: /assets/images/tutorial/bromografo/Foto047.jpg
+    title: "Ultimi cablaggi"
+  - image_path: /assets/images/tutorial/bromografo/Foto048.jpg
+    title: "Montaggio listello"
+fine-montaggio:
+  - image_path: /assets/images/tutorial/bromografo/Foto049.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto050.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto051.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto052.jpg
 ---
 
 Dopo lunghi studi persi durante i primi di agosto dell’anno scorso, tra vacanze e negozi chiusi, iniziai a realizzare un bromografo utile per creare le schede del mio robot  e tutte le schede elettroniche che potessero servirmi.
@@ -251,3 +274,70 @@ Il piccolo pezzettino rimanente servirà per poter fermare il coperchio dell’e
 Dopo questa lunga seconda parte la struttura fondamentale del bromografo è quasi pronta.
 
 Nel prossimo articolo monteremo le lampade e potremo finalmente stampare il primo circuito.
+
+# Assemblaggio parti finali
+
+Siamo arrivati alla parte più importante del bromografo qui lavoreremo sulla costruzione dell’elettronica per far avviare le lampade UVA. Questa è l’ultima parte della guida dedicata alla costruzione del Bromografo, da qui potremo stampare i nostri circuiti stampati utili per i nostri robot amatoriali.
+Per dubbi o informazioni scrivete sul forum di minisumo.net. Dopo questa introduzione iniziamo a costruire partendo da quello che avevamo lasciato fermo la volta scorsa: Prendiamo il nostro telaio:
+
+{% include gallery id="insieme" caption="Vista d'insieme" layout="half" %}
+
+Ed iniziamo a mettere i reattori mancanti
+
+{% include gallery id="reattori" caption="montaggio reattori" %}
+
+Montiamo anche i Porta starter che più tardi ci serviranno per poter mettere i nostri starter
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto037.jpg" alt="Montaggio porta starter" caption="Montaggio porta starter" %}
+
+Mettiamo anche la carta specchio su tutta la superficie interna del bromografo
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto038.jpg" alt="Superficie riflettente" caption="Superficie riflettente" %}
+
+Adesso è il turno più importante, infatti dobbiamo montare tutto l’impianto, prendendo lo schema precendetemente usato nel primo articolo.
+
+E’ importante usare i cavi elettrici per la 220V quelli troppo piccoli posso essere pericolosi, infatti questi possono prendere fuoco o bruciarsi al passaggio di tensioni così alte.
+
+{% include gallery id="cavi" caption="Cablaggio cavi" layout="half" %}
+
+## Completamento montaggio
+
+Adesso che il montaggio è completo montiamo l’interruttore e la presa precedentemente comprati e colleghiamo il tutto come descritto nel primo articolo
+
+{% include gallery id="interruttori" caption="interruttori" layout="half" %}
+
+Dopo aver fatto ciò chiudiamo il tutto mettendo il coperchio precedentemente montato che nasconde i cavi.
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto043.jpg" alt="Montaggio doppio fondo" caption="Montaggio doppio fondo" %}
+
+Possiamo finalmente montare gli starter
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto044.jpg" alt="Starter" caption="Starter" %}
+
+Adesso è il turno delle lampade
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto045.jpg" alt="Lampade" caption="Lampade" %}
+
+Montiamo i listelli e copriamoli con la carta specchio.
+Possiamo notare come la superficie sia particolarmente riflettente molto utile quando dovremo impressionare le nostre schede
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto046.jpg" alt="Prova luminosità" caption="Prova luminosità" %}
+
+Completiamo il montaggio mettendo anche la massa ed il listello
+
+{% include gallery id="cablaggi2" caption="cablaggi" layout="half" %}
+
+Possiamo finalmente montare i coperchi e mettere il vetro
+
+Il bromografo finalmente può funzionare
+
+{% include gallery id="fine-montaggio" caption="Visione d'insieme" layout="half" %}
+
+Il bromografo però non è completo di elettronica quindi quando accenderemo il macchinario le lampade si accenderanno subito, dobbiamo stare attenti a non guardare le lampade troppo a lungo, queste infatti possono essere pericolose per la vista.
+
+Già che ci siamo montiamo altre due maniglie sul secondo coperchio
+In modo da essere più comodo per il trasporto
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto053.jpg" alt="Bromografo Finito" caption="Bromografo Finito" %}
+
+Con questo si conclude la costruzione del Bromografo, i prossimi articoli tratteranno su come costruire il timer per il bromografo e come fare i circuiti stampati.
