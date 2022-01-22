@@ -8,8 +8,6 @@ header:
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
-intro: 
-  - excerpt: 'Test'
 feature_row:
   - image_path: /assets/images/minisumo-competition.jpg
     alt: "minisumo robot"
@@ -33,7 +31,5 @@ feature_row:
     btn_label: "💯 Tutorials"
     btn_class: "btn--success"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
