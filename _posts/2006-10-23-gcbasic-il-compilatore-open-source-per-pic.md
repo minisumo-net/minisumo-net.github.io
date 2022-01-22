@@ -8,8 +8,8 @@ toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/posts/BCI/PLB-with-EEG-helmet-and-BCI-up-low-task.jpg
-  teaser: /assets/images/posts/BCI/PLB-with-EEG-helmet-and-BCI-up-low-task.jpg
+  overlay_image: /assets/images/posts/gbasic/Figura 4.jpeg
+  teaser: /assets/images/posts/gbasic/Figura 4.jpeg
 categories:
   - Programming
 tags:
