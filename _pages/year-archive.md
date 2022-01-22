@@ -11,6 +11,8 @@ header:
   overlay_image: /assets/images/tutorial.jpg
   teaser: /assets/images/tutorial.jpg
   actions:
+    - label: "🗄️ Archive"
+      url: "/archive"
     - label: "🗃️ by Category"
       url: "/categories"
     - label: "📑 by Tags"

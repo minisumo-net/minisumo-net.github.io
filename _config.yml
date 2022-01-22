@@ -112,6 +112,9 @@ collections:
   tutorial:
     output: true
     permalink: /:collection/:path/
+  archive:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -129,6 +132,17 @@ defaults:
   - scope:
       path: ""
       type: tutorial
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      read_time: true
+      sidebar:
+        nav: "tutorial"
+  # _archive
+  - scope:
+      path: ""
+      type: archive
     values:
       layout: single
       author_profile: true
