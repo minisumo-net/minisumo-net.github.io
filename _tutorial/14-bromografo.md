@@ -19,6 +19,25 @@ componenti:
 costruzione:
   - image_path: /assets/images/tutorial/bromografo/Foto007.jpg
   - image_path: /assets/images/tutorial/bromografo/Foto008.jpg
+montaggio:
+  - image_path: /assets/images/tutorial/bromografo/Foto010.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto011.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto012.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto013.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto014.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto015.jpg
+coperchio-lampade:
+  - image_path: /assets/images/tutorial/bromografo/Foto020.jpg
+    title: "Fori e maniglia"
+  - image_path: /assets/images/tutorial/bromografo/Foto021.jpg
+    title: "Montaggio maniglia"
+divisore:
+  - image_path: /assets/images/tutorial/bromografo/Foto023.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto024.jpg
+listelli:
+  - image_path: /assets/images/tutorial/bromografo/Foto028.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto029.jpg
+  - image_path: /assets/images/tutorial/bromografo/Foto030.jpg
 ---
 
 Dopo lunghi studi persi durante i primi di agosto dell’anno scorso, tra vacanze e negozi chiusi, iniziai a realizzare un bromografo utile per creare le schede del mio robot  e tutte le schede elettroniche che potessero servirmi.
@@ -147,3 +166,88 @@ Ecco il costo della prima spesa per realizzare il bromografo
 | 20 | viti da 2cm per legno | 1,50€ |
 
 Per il momento Spesa complessiva è di 89,10€
+
+# Montaggio
+
+Adesso inizia la parte più difficile, il montaggio del bromografo. Dopo la prima parte di questa guida dedicata al reperimento dei pezzi ed allo studio generale della struttura del bromografo, Inizierà la parte più lunga della realizzazione costruttiva del bromografo, la realizzazione del telaio.
+
+Il telaio:
+
+Per prima cosa si prende il pannello legno multistrato spesso 1cm, da 33cm x 38cm, montando il primo pannello laterale.
+
+Come si vede dalla foto, il pannello è stato già tagliato e bucato permettendo il montaggio degli interruttori e delle lampade:
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto009.jpg" alt="Montaggio" caption="Montaggio" %}
+
+Dopodiché si montano tutti i vari pannelli:
+
+* 2 pannelli legno multistrato spesso 1,5cm, da 11,5cm x 38cm PER LATERALI
+* 2 pannelli legno multistrato spesso 1,5cm, da 11,5cm x 33cm PER LATERALI
+* 1 pannello legno multistrato spesso 1,5cm, da 10cm x 33cm PER LATERALE BASSO
+
+{% include gallery id="montaggio" caption="Montaggio" layout="half" %}
+
+## Colorazione
+E con questo la struttura fondamentale è stata costruita. Il telaio adesso è pronto per essere colorato.
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto016.jpg" alt="Preparazione per la colorazione" caption="Preparazione per la colorazione" %}
+
+Durante la colorazione del Telaio possiamo continuare a costruire gli altri elementi di minore importanza del bromografo.
+Partendo dai coperchi, sia quello dell’elettronica che della “camera di impressione”, i listelli per tenere fermo il vetro.
+Ed infine modificare il pannello centrale della Foto 3
+
+I Coperchi: Prendiamo il pannello legno multistrato spesso 1,5cm, da 15cm x 30cm PER COPERCHIO ELETTRONICA
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto017.jpg" alt="Coperchio per l'elettronica" caption="Coperchio per l'elettronica" %}
+
+Come il telaio  il nostro coperchio lo coloriamo in modo tale da avere lo stesso coperchio
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto018.jpg" alt="Colorazione coperchio elettronica" caption="Colorazione coperchio elettronica" %}
+
+Dopodiché montiamo le cerniere
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto019.jpg" alt="Montaggio cerniere" caption="Montaggio cerniere" %}
+
+## Coperchio lampade
+
+Prendiamo il pannello legno multistrato spesso 1,5cm, da 23cm x 33cm PER IL COPERCHIO LAMPADE e la maniglia precedentemente comprata
+
+{% include gallery id="coperchio-lampade" caption="coperchio" layout="half" %}
+
+Ed continuiamo il montaggio montando le cerniere
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto022.jpg" alt="Montaggio cerniere" caption="Montaggio cerniere" %}
+
+Adesso è il turno del pannello centrale che divide le due sezioni, la parte di impressione e dell’elettronica, infatti questa parte deve avere delle fessure che permettano il passaggio dei cavi elettrici proveniente dalle lampade
+
+{% include gallery id="divisore" caption="Divisore" layout="half" %}
+
+E già che ci siamo montiamo anche i primi 2 reattori
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto025.jpg" alt="Montaggio reattori" caption="Montaggio reattori" %}
+
+## Doppio fondo
+
+Prepariamo anche la copertura che nasconderà tutti i cavi delle lampade e sarà una delle superfici riflettenti che permetterà alla luce di essere più omogenea nella camera di impressione.
+
+Facciamo dei piccoli intagli in modo tale da poter fissare meglio la base i porta lampade.
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto026.jpg" alt="Taglio doppio fondo" caption="Taglio doppio fondo" %}
+
+Ed infine incolliamo la “carta specchio”
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto027.jpg" alt="Superficie riflettente" caption="Superficie riflettente" %}
+
+## Listelli
+
+L’ultima parte da preparare, prima di iniziare a montare tutto l’impianto delle lampade, sono i listelli
+
+{% include gallery id="listelli" caption="Listelli" %}
+
+Il piccolo pezzettino rimanente servirà per poter fermare il coperchio dell’elettronica
+
+{% include figure image_path="/assets/images/tutorial/bromografo/Foto031.jpg" alt="Sostegno coperchio" caption="Sostegno coperchio" %}
+
+Dopo questa lunga seconda parte la struttura fondamentale del bromografo è quasi pronta.
+
+Nel prossimo articolo monteremo le lampade e potremo finalmente stampare il primo circuito.
