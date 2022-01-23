@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/posts/RTC/rtcup.gif
   teaser: /assets/images/posts/RTC/rtcup.gif
 categories:
-  - Gare di robotica
+  - Competizioni
 tags:
   - RTC Cup
 ---

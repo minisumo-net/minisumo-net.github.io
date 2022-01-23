@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/posts/solarroller/Solaroller2.jpg
   teaser: /assets/images/posts/solarroller/Solaroller2.jpg
 categories:
-  - Gare di robotica
+  - Competizioni
 tags:
   - Solaroller
 ---

@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/posts/explorer/CampoSenior.jpg
   teaser: /assets/images/posts/explorer/CampoSenior.jpg
 categories:
-  - Gare di robotica
+  - Competizioni
 tags:
   - explorer
 ---
