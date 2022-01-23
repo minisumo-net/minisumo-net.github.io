@@ -14,7 +14,9 @@ tags:
   - Solaroller
 ---
 
-Il regolamento di questa categoria in Italiano è disponibile nella pagina dei download del portale.
+Il regolamento di questa categoria in Italiano è disponibile qui.
+
+{% include download.html name="regolamentosolaroller.pdf" url="https://drive.google.com/file/d/1kCfl20MCYuZOKT_rkPzeCa2SQFaJYD89/view?usp=sharing" %}
 
 {% include figure image_path="/assets/images/posts/solarroller/SolarollerCourse.gif" alt="Campo solaroller" caption="Campo solaroller" %}
 

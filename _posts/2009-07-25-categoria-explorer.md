@@ -38,6 +38,8 @@ Esistono tre categorie di Explorer:
 
 ## Explorer Junior
 
+{% include download.html name="regolamentoexplorerjuniorv2.pdf" url="https://drive.google.com/file/d/1291_nZsUCJzSM-2j9rsqcqtHCUDOF1X9/view?usp=sharing" %}
+
 {% include figure image_path="/assets/images/posts/explorer/CampoJunior.jpg" alt="Campo explorer junior" caption="Campo explorer junior" %}
 
 Le due categorie Explorer Junior sono nate per spingere i ragazzi del 2° anno delle scuole superiori a cimentarsi nella costruzione di piccoli robottini esploratori. Il campo e le regole sono molto più semplici di quelli della categoria Senior, ciò non toglie che la difficoltà di costruzione e l’impegno richiesto siano quasi equivalenti.
@@ -52,6 +54,8 @@ Nella prima categoria, vale a dire quella degli “Explorer Junior Programmabili
 Mentre, per quanto riguarda gli “Explorer Junior Analogici”, i sensori ed i motori vengono controllati in modo puramente analogico, quindi con relè, transistor e diodi e senza il supporto di un programma.
 
 ## Explorer Senior
+
+{% include download.html name="regolamentoexplorerseniorv1.pdf" url="https://drive.google.com/file/d/1ZMFnU1YKtMnGodgD42rEafVUOn6CTZ8D/view?usp=sharing" %}
 
 {% include figure image_path="/assets/images/posts/explorer/CampoSenior.jpg" alt="Campo explorer senior" caption="Campo explorer senior" %}
 

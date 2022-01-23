@@ -39,7 +39,7 @@ Quante volte ci è capito di vedere il nostro case “depresso”. In questa gui
 * IC1=555
 * IC2=4017
 
-(disponibile in area download)
+{% include download.html name="20060410Effettosupercar.zip" url="https://drive.google.com/file/d/1jnrPgjwSVy9psIcoSf_YMui5ton0QhvI/view?usp=sharing" %}
 
 # Funzionamento
 

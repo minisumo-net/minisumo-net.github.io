@@ -41,6 +41,8 @@ posizioni-robot:
     title: "Il robot ha toccato con una delle sue estremità il terreno. Il robot ha perso l’incontro."
 ---
 
+{% include download.html name="regolamentominisumo.pdf" url="https://drive.google.com/file/d/17933bnrCWmkkoFccwHPNvbdGwzfWxYM2/view?usp=sharing" %}
+
 Molto spesso quando andiamo a costruire il nostro robot da minisumo non sappiamo come dobbiamo costruirlo per colpa delle severe norme imposte dal regolamento. Ma in questa guida vedremo come poter interpretare al meglio il significato di certi punti che potrebbero risultare difficili per chi sta iniziando la prima volta.
 
 La prima operazione che dobbiamo fare, quando iniziamo a progettare il robot, è vedere se il robot rispetta i parametri imposti dal regolamento, partendo dal peso, le misure ecc…  (Regolamento visionabile nell’area download)

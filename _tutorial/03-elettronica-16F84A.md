@@ -189,3 +189,4 @@ Questo ci sarà utile per qualsiasi programma che scriveremo in futuro, ma per q
 Nelle prossime lezioni si inizierà ad imparare la programmazione in Basic ed utilizzeremo questo robot per poter iniziare a programmare.
 Qui di seguito vi lascio comunque il codice e l’.HEX da caricare sul PIC
 
+{% include download.html name="20060403PICore.zip" url="https://drive.google.com/file/d/1gtRB_SkIscBpu0QeAHX-V5waLERuWRoL/view?usp=sharing" %}

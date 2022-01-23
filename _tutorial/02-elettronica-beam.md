@@ -177,3 +177,5 @@ Vi includo la tabella con le misure e le specifiche di questo robot montato:
 | Altezza | 8,5 cm |
 | Peso | 477 grammi |
 | Peso senza batterie | 328 grammi |
+
+{% include download.html name="20060227BEAMMinisumo.zip" url="https://drive.google.com/file/d/1rLdUxoYtAfsQk0HHtwbp3yvfOcjG8d8c/view?usp=sharing" %}

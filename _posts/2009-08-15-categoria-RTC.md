@@ -21,3 +21,5 @@ Lo spirito che si cela dietro a questa nuova gara è quello di avere una competi
 Ecco il link dove poter leggere il regolamento ufficiale della competizione (approvato con ampia maggioranza il 17 gennaio 2009 alla riunione della ML Roboteck in occasione della Robofesta all’IPSIA Fascetti di Pisa 2009)
 
 {% include figure image_path="/assets/images/posts/RTC/rtcup.gif" alt="RTC Cup" caption="RTC Cup" %}
+
+{% include download.html name="regolamentoRTC.pdf" url="https://drive.google.com/file/d/1X6Yz-_0uf6xntupljDEPusIT6nqEeynn/view?usp=sharing" %}

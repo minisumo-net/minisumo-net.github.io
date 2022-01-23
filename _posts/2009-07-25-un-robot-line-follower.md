@@ -19,7 +19,6 @@ tags:
 Con questo progetto ho voluto realizzare un robot in grado di seguire autonomamente una linea bianca tracciata su di una pavimentazione nera e che sia in grado di fermasi in caso vi siano ostacoli sul percorso.
 Il robot sarà dotato di 2 ruote e due punti di appoggio omnidirezionali, di un microprocessore PIC 16F876 che si occuperà della gestione di tutta la parte di controllo automatico ed è inoltre è necessario l’uso di 4 sensori, 3 per il rilevamento della linea e 1 per il rilevamento degli ostacoli lungo il percorso.
 
-
 # Studio del problema
 
 Per facilitare lo studio e la realizzazione del progetto ho deciso di seguire un approccio modulare al problema iniziale, in pratica ho cercato di sezionare il problema in diversi blocchi dove ognuno rispondeva ad una parte del problema.
@@ -453,3 +452,5 @@ Purtroppo il raggio di curvatura del robot non è molto ampio ciò è dovuto sop
 Il software scritto è stabile e non presenta bug.
 
 L’elettronica è stata testata e non ha rivelato problemi di sorta anche dopo ore di utilizzo.
+
+{% include download.html name="20060619Costruiamounrobotlinefollower.zip" url="https://drive.google.com/file/d/1LvN9S0dFfA72eGyV5_y_0ZU5Q9uylYa-/view?usp=sharing" %}

@@ -94,6 +94,8 @@ Posizionate il sensore su di una superficie scura, se avete a disposizione un ri
 
 **ATTENZIONE… QUANDO SI’ TARA IL TRIMMER NON FARLO ARRIVARE MAI NELLA POSIZIONE DI CORTO CIRCUITO, RISCHIATE DI BRUCIARE IL FOTO-DIODO.**
 
+{% include download.html name="20060220Primosensoreinfrarosso.zip" url="https://drive.google.com/file/d/1YUyuBvPpj5YLeoWjvzhOo_2wXyFX0mI6/view?usp=sharing" %}
+
 ## Secondo circuito
 
 {% include gallery id="circuito-stampato-due" caption="Secondo circuito" layout="half" %}
@@ -116,3 +118,5 @@ Questi sensori si possono usare per altri scopi come ad esempio in un circuito l
 Nella sezione download potete scaricare gli zip con i file per EAGLE dei circuiti proposti.
 
 L’uso dei sensori su un minisumo lo vedrete nei prossimi articoli.
+
+{% include download.html name="20060220Secondosensoreinfrarosso.zip" url="https://drive.google.com/file/d/1D_zHH7VwRsgUqltxRxUbHwLrzbO61idn/view?usp=sharing" %}

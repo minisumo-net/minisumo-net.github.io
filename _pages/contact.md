@@ -25,4 +25,8 @@ Nel corso degli anni Minisumo.net si è ampliato contribuendo e realizzando even
 
 Come la Robofesta di Bagheria del 13 Febbraio 2004 e l’evento all’interno dell’Eurobot 2006 il 1 Giugno 2006.
 
+{% include download.html name="LocandinaMinisumoEurobot2006.pdf" url="https://drive.google.com/file/d/123oeiW9Iw2QFL6bb5Sng8o8fPrDNDF9y/view?usp=sharing" %}
+
 Durante gli anni il portale si è rinnovato cambiando da MaxDev a Joomla!™ (nel 5 dicembre 2005), nel luglio 2009 il portale cambia nuovamente piattaforma, usando Worpress e adesso su Github pages.
+
+{% include download.html name="6RoboFesta-2006.pdf" url="https://drive.google.com/file/d/1bFLBahli9Ck0cRfHpwpxj7V3yUb_VPq2/view?usp=sharing" %}
