@@ -1,7 +1,11 @@
 ---
 title: "Costruiamo un bromografo"
 excerpt: "Costruiamo un bromografo"
-permalink: /tutorial/costruiamo-un-bromografo
+permalink: /guide/strumentazione/costruiamo-un-bromografo/
+redirect_from:
+  - /tutorial/costruiamo-un-bromografo
+  - /guide/strumentazione/costruiamo-un-bromografo-p°2/
+  - /guide/strumentazione/costruiamo-un-bromografo-p°3/
 author: "Raffaello Bonghi"
 toc: true
 toc_label: "Tavola dei contenuti"

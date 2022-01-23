@@ -1,7 +1,9 @@
 ---
 title: "Costruiamo un carica batterie Litio"
 excerpt: "Con questa guida realizzeremo un carica batterie che ci permette di caricare le litio Lipo."
-permalink: /tutorial/costruiamo-un-carica-batterie-litio
+permalink: /guide/strumentazione/costruiamo-un-carica-batterie-litio/
+redirect_from:
+  - /tutorial/costruiamo-un-carica-batterie-litio
 author: "Raffaello Bonghi"
 toc: true
 toc_label: "Tavola dei contenuti"

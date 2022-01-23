@@ -1,6 +1,8 @@
 ---
 layout: splash
 excerpt: "Tutti gli eventi dedicati alle gare dei robot da minisumo"
+redirect_from:
+  - /download/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

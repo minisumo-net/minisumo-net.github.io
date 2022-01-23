@@ -1,7 +1,9 @@
 ---
 title: "I circuiti stampati fatti in casa"
 excerpt: "I circuiti stampati fatti in casa"
-permalink: /tutorial/i-circuiti-stampati-fatti-in-casa
+permalink: /guide/strumentazione/i-circuiti-stampati-fatti-in-casa/
+redirect_from:
+  - /tutorial/i-circuiti-stampati-fatti-in-casa/
 author: "Andrea Di Pietrantonio"
 toc: true
 toc_label: "Tavola dei contenuti"

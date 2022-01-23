@@ -2,6 +2,9 @@
 title: "Il Nutchip, un integrato dai mille utilizzi"
 excerpt: "Il Nutchip è un importante integrato che permette il controllo di qualsiasi apparecchiatura, dalle più semplici per domotizzare la propria casa fino a creare piccoli robottini."
 author: "Raffaello Bonghi"
+permalink: /blog/2006/07/03/il-nutchip-un-integrato-dai-mille-utilizzi/
+redirect_from:
+  - /recensioni/il-nutchip-un-integrato-dai-mille-utilizzi/
 classes: wide
 header:
   overlay_color: "#000"
