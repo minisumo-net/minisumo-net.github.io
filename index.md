@@ -8,6 +8,8 @@ header:
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
+  - label: "Contatti"
+    url: "/contact"
 feature_row:
   - image_path: /assets/images/minisumo-competition.jpg
     alt: "minisumo robot"

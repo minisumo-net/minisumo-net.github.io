@@ -8,11 +8,9 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/tutorial.jpg
-  teaser: /assets/images/tutorial.jpg
+  overlay_image: /assets/images/posts/events/eurobot2006/image012.jpg
+  teaser: /assets/images/posts/events/eurobot2006/image012.jpg
   actions:
-    - label: "🗄️ Archive"
-      url: "/archive"
     - label: "🗃️ by Category"
       url: "/categories"
     - label: "📑 by Tags"
