@@ -1,5 +1,6 @@
 ---
 title: "Officine Robotiche 2014"
+author: "Raffaello Bonghi"
 classes: wide
 header:
   overlay_color: "#000"

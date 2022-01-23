@@ -1,6 +1,7 @@
 ---
 title: "Robofesta IPSIA Fascetti 2006"
 excerpt: "La nuova robofesta all’IPISA Fascetti si è conclusa e come ogni anno sono usciti i vincitori per ogni categoria robotica, ma prima di iniziare la recensione dando l’elenco dei vincitori per ogni categoria, inizieremo la recensione partendo dall’inizio."
+author: "Raffaello Bonghi"
 classes: wide
 header:
   overlay_color: "#000"

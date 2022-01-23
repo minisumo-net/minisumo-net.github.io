@@ -1,5 +1,6 @@
 ---
 title: "Nuovo Sito minisumo.net"
+author: "Raffaello Bonghi"
 classes: wide
 header:
   overlay_color: "#000"

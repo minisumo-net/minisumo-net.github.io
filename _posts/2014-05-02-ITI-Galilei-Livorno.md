@@ -1,5 +1,6 @@
 ---
 title: "RoboGame 2014 – ITI Galilei di Livorno"
+author: "Raffaello Bonghi"
 classes: wide
 header:
   overlay_color: "#000"

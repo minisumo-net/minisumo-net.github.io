@@ -1,5 +1,6 @@
 ---
 title: "Scienza e Società – concorso robot"
+author: "Raffaello Bonghi"
 classes: wide
 header:
   overlay_color: "#000"

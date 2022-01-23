@@ -2,6 +2,7 @@
 title: "Fondamenti di programmazione"
 excerpt: "Fondamenti di programmazione"
 permalink: /tutorial/fondamenti-programmazione
+author: "Raffaello Bonghi"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

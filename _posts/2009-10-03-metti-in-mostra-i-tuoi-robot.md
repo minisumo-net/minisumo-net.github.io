@@ -1,5 +1,6 @@
 ---
 title: "Metti in Mostra i Tuoi Robot"
+author: "Raffaello Bonghi"
 classes: wide
 header:
   teaser: /assets/images/posts/events/metti-in-mostra-i-tuoi-robot-futuro-remoto-2009.jpg
