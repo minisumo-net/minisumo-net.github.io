@@ -1,5 +1,6 @@
 ---
 title: "Robofesta IPSIA Fascetti 2006"
+excerpt: "La nuova robofesta all’IPISA Fascetti si è conclusa e come ogni anno sono usciti i vincitori per ogni categoria robotica, ma prima di iniziare la recensione dando l’elenco dei vincitori per ogni categoria, inizieremo la recensione partendo dall’inizio."
 classes: wide
 header:
   overlay_color: "#000"
@@ -14,6 +15,7 @@ tags:
 ---
 
 La nuova robofesta all’IPISA Fascetti si è conclusa e come ogni anno sono usciti i vincitori per ogni categoria robotica, ma prima di iniziare la recensione dando l’elenco dei vincitori per ogni categoria, inizieremo la recensione partendo dall’inizio.
+
 Le categorie che si sono proposte durante questo evento sono state 2:
 * La categoria **Minisumo**
 * La categoria **Explorer Senior**
