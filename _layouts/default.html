@@ -41,6 +41,7 @@
 
     <div class="initial-content">
       {{ content }}
+      {% if jekyll.environment == "production" %}
       <div align="center" style="margin: 1em 0;">
         <ins class="adsbygoogle"
              style="display:block; border-bottom: initial;"
@@ -49,6 +50,7 @@
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
       </div>
+      {% endif %}
     </div>
 
     {% if site.search == true %}
@@ -65,6 +67,7 @@
     </div>
 
     {% include scripts.html %}
+    {% if jekyll.environment == "production" %}
     <style>
       .google-auto-placed {
         margin: 2em auto;
@@ -72,6 +75,7 @@
     </style>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    {% endif %}
 
   </body>
 </html>
