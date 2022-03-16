@@ -24,7 +24,7 @@ feature_row:
     alt: "Regolamento"
     title: "Regolamento"
     excerpt: "Il regolamento!"
-    url: "/rules/"
+    url: "/regolamento/"
     btn_label: "Leggi il regolamento"
     btn_class: "btn--warning"
   - image_path: /assets/images/tutorial.jpg
