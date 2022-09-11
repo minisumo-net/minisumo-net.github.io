@@ -32,7 +32,7 @@ analytics:
   provider: "google"
   google:
     tracking_id: "UA-243544-1"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
   google-tag:
     tracking_id: "GTM-KGFQQM9"
 
