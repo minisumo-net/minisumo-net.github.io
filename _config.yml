@@ -29,9 +29,9 @@ social:
     - "https://instagram.com/robo.panther"
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-243544-1"
+    tracking_id: "G-2B8X8Y63X4"
     anonymize_ip: true # default
   google-tag:
     tracking_id: "GTM-KGFQQM9"
